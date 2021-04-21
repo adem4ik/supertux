@@ -102,7 +102,6 @@ EOF
             buildInputs = [
               raqm
 
-              pkgs.boost
               pkgs.curl
               pkgs.fribidi
               pkgs.harfbuzz
